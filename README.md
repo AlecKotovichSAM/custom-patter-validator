@@ -1,5 +1,10 @@
 Based on https://www.javainuse.com/spring/boot-jwt
 
+
+1. Example of JWT
+2. Example of Locale interceptor
+3. Example of custom Pattern regexp from a property
+
 ## Get Token:
 
 /authenticate
